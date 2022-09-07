@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jl9l1YdzxqrwAr+lkG4CMQ9d+DdrU++8y7hR0yqRerM=",
+  "Source": "TodoApp.RestFullAPI",
+  "BasePath": "_content/TodoApp.RestFullAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
